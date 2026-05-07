@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.XOMasterPro" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:colorBackground">#1A1A2E</item>
+        <item name="colorPrimary">#E94560</item>
+    </style>
+
+    <style name="CellButton">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:background">#0F3460</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">0sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+    </style>
+
+    <style name="DividerVertical">
+        <item name="android:layout_width">2dp</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:background">#E94560</item>
+    </style>
+
+    <style name="DividerHorizontal">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">2dp</item>
+        <item name="android:background">#E94560</item>
+    </style>
+</resources>
